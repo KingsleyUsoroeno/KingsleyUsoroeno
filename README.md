@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Since you got these far let me tell you a little about myself, My name is Kingsley Usoro.
+A Mobile Software Developer at DataInfosec, currently work on Tanda, A Time and Attendance Management system for businesses and companies alike  that have to monitor thier staff ins and outs and track down productivity.
+I enjoy developing 🤖, mobile applications for both native android and for cross platform applications using Goggle new sdk called flutter and when am not coding am spending time with my family or watching movies.
+
+Thanks for checking out my profile.
+
 <!--
 **KingsleyUsoroeno/KingsleyUsoroeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
