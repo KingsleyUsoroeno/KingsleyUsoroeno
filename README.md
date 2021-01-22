@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Since you got these far let me tell you a little about myself, My name is Kingsley Usoro.
-A Mobile Software Developer at DataInfosec, currently work on Tanda, A Time and Attendance Management system for businesses and companies alike  that have to monitor thier staff ins and outs and track down productivity.
-I enjoy developing 🤖, mobile applications for both native android and for cross platform applications using Goggle new sdk called flutter and when am not coding am spending time with my family or watching movies.
+Since you got this far let me tell you a little about myself, My name is Kingsley Usoro.
+A mobile software Developer at DROHealth currently working on the Android team , whilst leading the flutter team to migrate our codebase to flutter.
+I enjoy developing 🤖, mobile applications for both native android with either Kotlin or Java and for cross platform applications using Goggle new sdk called flutter and when am not coding am spending time with my family or discovering new music.
+
 
 Thanks for checking out my profile and feel free to connect with me on [Twitter](https://twitter.com/tech_kingsley) or even [LinkedIn](https://www.linkedin.com/in/kingsley-usoro-9a2341172/)..
 
