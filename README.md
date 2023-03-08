@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Software Engineer at MAKA
+Mobile Software Engineer
